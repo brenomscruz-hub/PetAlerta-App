@@ -4,7 +4,7 @@
 O PetAlerta é uma plataforma para localização de cães perdidos, conectando tutores, cidadãos e protetores.
 
 ### Integrantes
-Gabriel, Guilherme, Brendo e Luany
+Gabriel, Gustavo, Breno e Luany
 
 ### Requisitos Funcionais e Não Funcionais
 - RF01 — Cadastro de animais perdidos
